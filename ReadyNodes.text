@@ -1,3 +1,2 @@
-NAME
-gke-vi-cluster-default-pool-f8d1c285-1tr7
-gke-vi-cluster-default-pool-f8d1c285-8125
+gke-vi-cluster-default-pool-f8d1c285-1tr7   Ready    <none>   10d   v1.13.11-gke.14
+gke-vi-cluster-default-pool-f8d1c285-8125   Ready    <none>   10d   v1.13.11-gke.14
