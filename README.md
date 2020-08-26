@@ -1,1 +1,1 @@
-# kubernetes-task2
+# kubernetes-project2
